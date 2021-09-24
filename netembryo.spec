@@ -6,7 +6,7 @@ Summary:	Netembryo - tiny network abstraction
 Summary(pl.UTF-8):	Netembryo - niewielka warstwa abstrakcji dla sieci
 Name:		netembryo
 Version:	0.1.1
-Release:	3
+Release:	4
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://lscube.org/files/downloads/netembryo/%{name}-%{version}.tar.bz2
